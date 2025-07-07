@@ -8,4 +8,5 @@ func main() {
 	fmt.Println("GGG")
 
 	fmt.Println("LLL")
+	fmt.Println("GGGG")
 }
